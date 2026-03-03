@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910793187012",
+    "project_id": "c323-capstone-travelxp",
+    "storage_bucket": "c323-capstone-travelxp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910793187012:android:5eba25051e9cabc6437391",
+        "android_client_info": {
+          "package_name": "edu.iu.luddy.c323capstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsux4i_9yZCVUvfZ7dhq8XJq1PoqzJAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

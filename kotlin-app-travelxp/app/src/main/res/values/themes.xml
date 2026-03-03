@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.TravelXP" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/crimson</item>
+        <item name="colorPrimaryVariant">@color/crimson_dark</item>
+        <item name="colorOnPrimary">@color/cream</item>
+
+        <item name="colorSecondary">@color/gold</item>
+        <item name="colorOnSecondary">@color/ink</item>
+
+        <item name="android:statusBarColor">@color/crimson_dark</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:textColorPrimary">@color/ink</item>
+
+        <!-- Material -->
+        <item name="materialButtonStyle">@style/Widget.TravelXP.Button</item>
+        <item name="android:editTextStyle">@style/Widget.TravelXP.EditText</item>
+    </style>
+
+</resources>

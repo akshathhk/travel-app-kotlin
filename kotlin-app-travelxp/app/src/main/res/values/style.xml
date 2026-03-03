@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Rounded, modern primary button -->
+    <style name="Widget.TravelXP.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/primary</item>
+        <item name="android:textColor">@color/cream</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+
+    <style name="Widget.TravelXP.Button.Secondary" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/secondary</item>
+        <item name="android:textColor">@color/crimson</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+
+    <style name="Widget.TravelXP.Button.Danger" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/danger</item>
+        <item name="android:textColor">@color/cream</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+
+    <style name="Widget.TravelXP.EditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:textColorHint">@color/ink_soft</item>
+    </style>
+
+</resources>
